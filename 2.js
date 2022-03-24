@@ -14,6 +14,8 @@ var test_data = [
 ];
 
 function search(str) {
+    var k = Number(str[1])
+    console.log(k)
     return "cbebebe"
 }
 
